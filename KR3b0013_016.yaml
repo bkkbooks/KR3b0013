@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR3b0013/krp/v1/juan/16
+seq: 16
+front:
+  text: 欽定四庫全書
+  hash: sha256:64d9ff2e7643d8cd3464e7f4c9e75c7d6d85eb6ee80c540d6dcbeeab187b9ddc
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR3b0013_WYG_016-1a, image: WYG0727/WYG0727-0107a.png}
+body:
+  text: 虎鈐經卷十六宋許洞撰分野統論第一百五十六老人星第一百五十七大火第一百五十八析木第一百五十九星紀第一百六十𤣥枵第一百六十一諏訾第一百六十二降婁第一百六十三大梁第一百六十四實沉第一百六十五鶉首第一百六十六鶉火第一百六十七鶉尾第一百六十八分野統論第一百五十六易曰天垂象聖人則之又曰仰以觀乎天文俯以察乎地理此皆前聖人洞吉凶興亡之道然而天文地理兵象之要略得不審而用之哉行師之際五星伏沒遲順兩曜盈虧薄食飛流示變孛彗為妖既知之矣必審必詳所居躔度焉其躔度既詳之矣必審所管分野焉茍如是方可以精别灾異順其舉動而已矣今臣輒上據天文下推地理以别十二分野外以觀星辰之變內以備山川之用天地之間燦然在目其圖其狀以視於來者焉虎鈐經卷十六
+  hash: sha256:70b91db771a51088ed7d5908e18343056073654e65e084ff48a8a85882a53a79
+metadata:
+  title: 虎鈐經
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-24 23:02:42.345376'
+  juan_title: 卷十六
+  source:
+    repository: kanripo
+    path: KR3b0013/KR3b0013_016.txt
+hash: sha256:b7b21552c1b2d827ea7d31c25224a8a0948ab5de444198fadd21daf4661e709e
