@@ -73,13 +73,10 @@ markers:
 
       ', id: KR3b0013_krp_016-bkkkrnewl12}
   - {type: line-break, offset: 147, content: '', id: KR3b0013_WYG_016-1b04}
-  - {type: substitution, offset: 156, original: 㓙, replacement: 凶, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3871}}
   - {type: 'kr:newline', offset: 168, content: '
 
       ', id: KR3b0013_krp_016-bkkkrnewl13}
   - {type: line-break, offset: 168, content: '', id: KR3b0013_WYG_016-1b05}
-  - {type: substitution, offset: 171, original: 畧, replacement: 略, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-1080}}
-  - {type: substitution, offset: 186, original: 没, replacement: 沒, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3541}}
   - {type: 'kr:newline', offset: 189, content: '
 
       ', id: KR3b0013_krp_016-bkkkrnewl14}
@@ -100,12 +97,10 @@ markers:
 
       ', id: KR3b0013_krp_016-bkkkrnewl18}
   - {type: line-break, offset: 252, content: '', id: KR3b0013_WYG_016-2a01}
-  - {type: substitution, offset: 271, original: 内, replacement: 內, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4477}}
   - {type: 'kr:newline', offset: 273, content: '
 
       ', id: KR3b0013_krp_016-bkkkrnewl19}
   - {type: line-break, offset: 273, content: '', id: KR3b0013_WYG_016-2a02}
-  - {type: substitution, offset: 293, original: 来, replacement: 來, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0323}}
   - {type: 'kr:newline', offset: 294, content: '
 
       ', id: KR3b0013_krp_016-bkkkrnewl20}
@@ -251,4 +246,4 @@ markers:
 
       ', id: KR3b0013_krp_016-bkkkrnewl53}
   back: []
-hash: sha256:4e382b60e46df3155ade9f72256f655dc6c83f5369395005f9df3151ab892e81
+hash: sha256:9f2ce4aeb89dd211725b1113269f793ec545e4cba8e7e7c211722c4ecd6aeb30
